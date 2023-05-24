@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "django": "^1.0.0",
+    "owl.carousel": "^2.3.4"
+  }
+}
